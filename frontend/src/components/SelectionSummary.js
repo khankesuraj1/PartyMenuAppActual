@@ -18,7 +18,7 @@ const SelectionSummary = ({ summary, onContinue }) => {
   }
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 bg-white shadow-lg border-t p-4">
+    <div className="fixed bottom-0 left-0 right-0 bg-white shadow-lg border-t p-4 z-40">
       <div className="max-w-4xl mx-auto">
         {/* Selection counts */}
         <div className="flex items-center justify-between mb-4">
