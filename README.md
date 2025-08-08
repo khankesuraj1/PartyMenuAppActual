@@ -86,8 +86,6 @@ Access the App
 
 Local: http://localhost:3000
 
-Live Demo: https://5fc0f851-decb-4ac1-8ed7-d0c749251207.preview.emergentagent.com
-
 ✨ Features
 4 Categories: Starter, Main Course, Dessert, Sides
 
